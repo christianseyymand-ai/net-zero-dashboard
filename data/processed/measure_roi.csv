@@ -1,0 +1,6 @@
+measure_id,capex_usd,annual_benefit,roi_annual_percent,payback_years
+M1,300000,275520,0.0,1.0
+M2,600000,54000,0.0,11.0
+M3,200000,56000,0.0,3.0
+M4,200000,453600,100.0,0.0
+M5,200000,15600,0.0,12.0

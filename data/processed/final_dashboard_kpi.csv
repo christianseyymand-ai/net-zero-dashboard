@@ -1,0 +1,13 @@
+metric_name,metric_value,unit,metric_type,display_order
+Baseline Emissions 2023,45705,tCO2e,Primary,1
+Scope 1 Emissions,3501,tCO2e,Scope Breakdown,2
+Scope 2 Emissions,3444,tCO2e,Scope Breakdown,3
+Scope 3 Emissions,38760,tCO2e,Scope Breakdown,4
+Emissions per Revenue,5377059,tCO2e per $10M revenue,Intensity,5
+Emissions per Employee,101,tCO2e per person,Intensity,6
+Total Abatement Potential 2030,10684,tCO2e,Abatement,7
+Total CAPEX Investment,4750000,USD,Financial,8
+Total Annual OPEX,370000,USD,Financial,9
+Carbon Cost Avoidance 2030,2720000,USD,Financial,10
+Net Zero Target Year,2040,Year,Target,11
+Company Employees,450,People,Company Info,12

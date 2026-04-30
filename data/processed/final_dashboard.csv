@@ -1,0 +1,9 @@
+dashboard_id,year,scenario,carbon_price_usd,emissions_tco2e,carbon_cost_usd,total_abatement_2030,total_abatement_cost,scenario_cost_usd,cost_avoidance_usd,reduction_vs_baseline_pct,scenario_label,time_period,company_employees,company_revenue_m,net_zero_target_year
+1,2023,Baseline,,45805.0,,10684.0,5120000.0,0,0,0.0,Baseline (2023),Historical,450,85,2040
+2,2025,BAU,50.0,48200.0,2410000.0,10684.0,5120000.0,2410000.0,0,-5.23,Business as Usual,Near-term (2025-2027),450,85,2040
+3,2025,Net Zero,50.0,35800.0,1790000.0,10684.0,5120000.0,1790000.0,0,21.84,Net Zero Pathway,Near-term (2025-2027),450,85,2040
+4,2030,BAU,80.0,52000.0,4160000.0,10684.0,5120000.0,4160000.0,0,-13.52,Business as Usual,Mid-term (2030),450,85,2040
+5,2030,Net Zero,80.0,18000.0,1440000.0,10684.0,5120000.0,1440000.0,2720000.0,60.7,Net Zero Pathway,Mid-term (2030),450,85,2040
+6,2040,Net Zero,120.0,2500.0,300000.0,10684.0,5120000.0,300000.0,0,94.54,Net Zero Pathway,Long-term (2040),450,85,2040
+,2035,BAU,,55000.0,,,,,,,,,,,
+,2035,Net Zero,,8000.0,,,,,,,,,,,

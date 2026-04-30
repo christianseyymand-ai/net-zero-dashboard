@@ -1,0 +1,6 @@
+measure_id,scope,measure_name,start_year,reduction_pct,capex_usd,opex_usd,total_investment_usd,abatement_2030_tco2e,financial_benefit_usd,cost_per_tco2e_usd,net_benefit_usd,payback_years,implementation_timeline,roi_status,measure_label
+M4,Scope 3,Supplier engagement,2027,15.0,200000.0,70000.0,570000.0,5670.0,453600.0,100.53,-116400.0,5.03,Medium-term (2027),Negative ROI,
+M1,Scope 2,Renewable electricity (PPA),2025,100.0,300000.0,80000.0,1280000.0,3444.0,275520.0,371.66,-1004480.0,27.87,Immediate (2025),Negative ROI,M1
+M3,Scope 1,Energy efficiency,2025,20.0,200000.0,40000.0,690000.0,700.0,56000.0,985.71,-634000.0,73.93,Immediate (2025),Negative ROI,
+M2,Scope 1,Fleet electrification,2026,60.0,600000.0,120000.0,2120000.0,675.0,54000.0,3140.74,-2066000.0,196.3,Short-term (2026),Negative ROI,M2
+M5,Scope 3,Logistics optimization,2026,25.0,200000.0,60000.0,460000.0,195.0,15600.0,2358.97,-444400.0,147.44,Short-term (2026),Negative ROI,
