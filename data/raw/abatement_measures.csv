@@ -1,0 +1,7 @@
+measure_id,scope,measure,start_year,reduction_pct,capex_usd,opex_usd
+M1,Scope 2,Renewable electricity (PPA),2025,100,1200000,80000
+M2,Scope 1,Fleet electrification,2026,60,2000000,120000
+M3,Scope 1,Energy efficiency,2025,20,650000,40000
+M4,Scope 3,Supplier engagement,2027,15,500000,70000
+M5,Scope 3,Logistics optimization,2026,25,400000,60000
+

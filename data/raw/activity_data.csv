@@ -1,0 +1,7 @@
+year,scope,category,activity,unit,quantity
+2023,Scope 1,Fuel,Natural Gas,m3,1250000
+2023,Scope 1,Fleet,Diesel,liters,420000
+2023,Scope 2,Electricity,Grid electricity,kWh,8200000
+2023,Scope 3,Purchased Goods,Raw materials,tonnes,18000
+2023,Scope 3,Transport,Upstream freight,tonne-km,6500000
+2023,Scope 3,Travel,Business flights,km,1200000

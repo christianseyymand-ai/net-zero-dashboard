@@ -1,0 +1,8 @@
+activity,unit,factor,factor_unit,source
+Natural Gas,m3,0.0019,tCO2e/m3,DEFRA
+Diesel,liters,0.00268,tCO2e/l,DEFRA
+Grid electricity,kWh,0.00042,tCO2e/kWh,IEA
+Raw materials,tonnes,2.1,tCO2e/t,Industry average
+Upstream freight,tonne-km,0.00012,tCO2e/tkm,DEFRA
+Business flights,km,0.00015,tCO2e/km,DEFRA
+
