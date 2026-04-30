@@ -48,13 +48,6 @@ This project reframes Net Zero as a **financial decision**, not just an environm
 - Significant cost avoidance under carbon pricing scenarios
 - Data-driven capital allocation for decarbonization
 - ESG strategy aligned with business performance
----
-
-## Full Reports
-
-- [Download Executive Summary](reports/executive-summary.pdf)
-- [Download ESG Report](reports/esg-report.pdf)
-- [Download Full Net Zero Plan](reports/net-zero-transition-plan.pdf)
 
 ---
 
