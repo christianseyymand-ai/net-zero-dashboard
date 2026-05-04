@@ -127,27 +127,27 @@ The Power BI dashboard translates ESG and emissions data into executive-level in
 
 ### Overview
 
-![Overview](dashboard/screenshots/overview.jpg)
+![Overview](dashboard/screenshots/Overview.jpg)
 
 ### Scope 3 Analysis
 
-![Scope 3 Analysis](dashboard/screenshots/scope-3-analysis.jpg)
+![Scope 3 Analysis](dashboard/screenshots/Scope%203%20Analysis.jpg)
 
 ### Scenario Analysis
 
-![Scenario Analysis](dashboard/screenshots/scenario-analysis.jpg)
+![Scenario Analysis](dashboard/screenshots/Scenario%20Analysis.jpg)
 
 ### Implementation Roadmap
 
-![Implementation Roadmap](dashboard/screenshots/implementation-roadmap.jpg)
+![Implementation Roadmap](dashboard/screenshots/Implementation%20Roadmap.jpg)
 
 ### Financial Impact
 
-![Financial Impact](dashboard/screenshots/financial-impact.jpg)
+![Financial Impact](dashboard/screenshots/Financial%20Impact.jpg)
 
 ### Abatement Measures
 
-![Abatement Measures](dashboard/screenshots/abatement-measures.jpg)
+![Abatement Measures](dashboard/screenshots/Abatement%20Measures.jpg)
 
 ---
 
