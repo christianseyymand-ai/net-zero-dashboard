@@ -1,87 +1,67 @@
-# net-zero-dashboard
-Net Zero analytics solution combining carbon accounting and financial modeling to identify emission hotspots and optimize decarbonization strategy. Achieves up to 60% emissions reduction with 81% ROI, integrating internal measures and carbon offsets toward Net Zero 2030. Built with SQLite, Power BI, and scenario-based analysis.
-# Net Zero Transition Plan – Carbon & Financial Analysis
+# Net Zero 2030 – Carbon Strategy Dashboard
 
-## Overview
-This project simulates a full ESG engagement, delivering an end-to-end Net Zero transition plan that combines carbon accounting, financial modeling, and strategic decision-making.
+ESG analytics project combining carbon accounting, SQL data modeling, Power BI dashboarding, and financial analysis to evaluate a Net Zero transition strategy.
 
-It demonstrates how sustainability initiatives can be translated into measurable business and financial value.
+This project simulates a full ESG consulting engagement where a company needs to understand its Scope 1, 2, and 3 emissions, identify carbon hotspots, evaluate decarbonization measures, and translate sustainability data into business and financial decisions.
 
 ---
 
-## The Challenge
-A company with **45,805 tCO₂e annual emissions (2023 baseline)** needed to achieve Net Zero by 2030 with limited budget and incomplete ESG data.
+## Project Summary
 
-Key issue:
-- **85% of emissions came from Scope 3 (supply chain)** — outside direct operational control
+The goal of this project is to show how ESG and emissions data can be structured, analyzed, and visualized to support a Net Zero strategy.
 
----
+The solution includes:
 
-## The Solution
-I built a comprehensive analytics solution that:
-
-- Developed a full **Scope 1, 2, and 3 GHG inventory**
-- Designed a **14-table relational database (SQLite)**
-- Identified emission hotspots (Scope 3 dominance)
-- Modeled **decarbonization strategies using MACC approach**
-- Built a **financial model (ROI, payback, cost avoidance)**
-- Created a **Power BI dashboard (30+ visuals)**
-- Delivered an **implementation roadmap (2024–2040)**
-- Assessed **climate risks and mitigation strategies**
+- A Scope 1, 2, and 3 GHG emissions inventory
+- A SQLite database with structured ESG and carbon data
+- SQL-based emissions analysis
+- Power BI dashboard outputs
+- Carbon pricing analysis
+- Abatement measures and reduction potential
+- ROI and payback analysis
+- Dashboard-ready KPI tables
+- A Net Zero transition roadmap
 
 ---
 
-## Key Insights
-- **85% of emissions are Scope 3 (supply chain)**
-- Supplier engagement is the critical lever (**53% of total abatement**)
-- $1.5M investment → **$2.72M annual savings**
-- **81.3% ROI with 6.6-month payback**
-- Net Zero 2030 achievable via offsets
-- Pathway to **true Net Zero by 2040 (no offsets required)**
+## Business Challenge
+
+A company with **45,805 tCO₂e annual emissions in the 2023 baseline year** needed to evaluate how to move toward Net Zero by 2030.
+
+Key challenges:
+
+- Most emissions came from Scope 3 value chain activities
+- Supplier-related emissions were difficult to manage
+- ESG data was fragmented across different categories
+- The company needed to prioritize decarbonization measures
+- Management needed a clear view of climate impact, cost, ROI, and payback
+- The company needed dashboard-ready outputs for decision-making
 
 ---
 
-## Business Impact
-This project reframes Net Zero as a **financial decision**, not just an environmental one:
+## Solution Built
 
-- $10.25M net benefit (5-year horizon)
-- Significant cost avoidance under carbon pricing scenarios
-- Data-driven capital allocation for decarbonization
-- ESG strategy aligned with business performance
+I developed an end-to-end ESG analytics solution that connects carbon accounting, data modeling, financial analysis, and dashboard reporting.
 
----
+The project includes:
 
-## Tools & Technologies
-- SQLite (data model – 14 tables)
-- Power BI (dashboard & visualization)
-- Excel (financial modeling)
-- SQL (data transformation)
-- GHG Protocol (Scope 1–3 methodology)
-- IFRS S1/S2, GRI, TCFD alignment
+- Emissions activity data organized by year, scope, and category
+- Emission factors used to estimate carbon emissions
+- Baseline emissions by Scope 1, Scope 2, and Scope 3
+- Scenario-based emissions modeling
+- Carbon pricing exposure analysis
+- Abatement measures by scope and category
+- Reduction potential by year
+- ROI and payback analysis for decarbonization initiatives
+- Final dashboard tables prepared for Power BI
 
 ---
 
-## Data Structure
-- `data/raw/` → source ESG data (emissions, suppliers, energy)
-- `data/processed/` → SQL-transformed tables for analysis
-- `database/` → structured emissions data model
-- `dashboard/` → Power BI visual outputs
-- `reports/` → ESG reports and deliverables
+## Database Design
 
----
+The project uses a SQLite database with **20 tables** covering emissions data, emission factors, carbon pricing, abatement measures, ROI calculations, payback timeline, and dashboard-ready KPI outputs.
 
-## Key Capabilities Demonstrated
-- Carbon accounting (Scope 1, 2, 3)
-- ESG data modeling & structuring
-- Scenario analysis & decarbonization strategy
-- Financial modeling (ROI, payback, cost avoidance)
-- Data visualization & stakeholder communication
-- ESG reporting aligned with global frameworks
+Main database file:
 
----
-
-## Author
-**Christian Seymand**  
-Carbon & Climate Data Analyst  
-
-I help companies measure, analyze, and reduce their carbon footprint by turning ESG data into actionable insights.
+```text
+database/net_zero_2030_dashboard.db
